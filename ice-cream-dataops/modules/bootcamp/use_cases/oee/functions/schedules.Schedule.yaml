@@ -3,4 +3,4 @@
   functionExternalId: oee_timeseries
   authentication:
       clientId: {{ data_pipeline_oee_client_id }}
-      clientSecret: {{ data_pipeline_oee_client_secret }}poetry run cdf run function local -s asdf
+      clientSecret: {{ data_pipeline_oee_client_secret }}
