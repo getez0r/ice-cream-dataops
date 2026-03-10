@@ -1,0 +1,11 @@
+externalId: ICAPI Assets Gabriel3
+sourceId: Ice Cream Factory API
+destinationId: ICAPI Assets Gabriel3
+format:
+  type: custom
+  encoding: utf8
+  mappingId: ICAPI Assets Gabriel3
+config:
+  interval: 1d
+  path: /site/all/csv
+  method: get
